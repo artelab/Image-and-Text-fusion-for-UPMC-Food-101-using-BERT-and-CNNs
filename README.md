@@ -7,6 +7,8 @@ Use Jupyter notebook.
 ## Dataset
 The used dataset is [UPMC Food-101](http://visiir.lip6.fr/explore) a very difficult dataset.
 
+![dataset](imgs/food101.png)
+
 ## Results
 | Method | Accuracy(%) |
 | ---      |  ------  |
