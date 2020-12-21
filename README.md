@@ -26,7 +26,7 @@ while in (c) we have a wrong examplecontaining the image of another class of the
 | Image (InceptionV3)   | 71.67 | 
 | Text (Bert) | 84.41 | 
 | Late fusion   | 84.59 | 
-| Early fusion   | 92.50 | 
+| **Proposed Early fusion** (our solution)   | **92.50** | 
 
 ## Citation
 ```
