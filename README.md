@@ -19,15 +19,18 @@ The used dataset is [UPMC Food-101](http://visiir.lip6.fr/explore) a very diffic
 
 ## Citation
 ```
-@INPROCEEDINGS{Gallo:2020:IVCNZ, 
-  author={Gallo, Ignazio and Ria, Gianmarco, Landro, Nicola and La Grassa, Riccardo},
-  booktitle={2020 International Conference on Image and Vision Computing New Zealand (IVCNZ 2020)}, 
-  title={Image and Text fusion for UPMC Food-101 using BERT and CNNs},
-  year={2020}, 
-  month={Dec},
+@INPROCEEDINGS{Gallo:2020:IVCNZ:Food101, 
+  author   ={Ignazio Gallo, Gianmarco Ria, Nicola Landro and  Riccardo La Grassa}, 
+  booktitle={International Conference on Image and Vision Computing New Zealand (IVCNZ 2020)}, 
+  title    ={Image and Text fusion for UPMC Food-101 using BERT and CNNs}, 
+  year     ={2020}, 
+  month    ={Nov},
+  pages    ={1-6},
+  doi      ={10.1109/IVCNZ51579.2020.9290622}, 
+  ISSN     ={2151-2205}, 
 }
 ```
 
 ## References
-[1] [Proposed Model](http://artelab.dista.uninsubria.it/res/research/papers/2020/2020-IVCNZ-Gallo-Food101.pdf)
+[1] [The paper: Image and Text fusion for UPMC Food-101 using BERT and CNNs (IVCNZ 2020)](http://artelab.dista.uninsubria.it/res/research/papers/2020/2020-IVCNZ-Gallo-Food101.pdf)
 
