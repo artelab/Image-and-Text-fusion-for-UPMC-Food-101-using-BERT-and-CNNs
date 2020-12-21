@@ -1,8 +1,14 @@
 # Image and Text fusion for UPMC Food-101 using BERT and CNNs
-The  modern  digital  world  is  becoming  more  andmore  multimodal.  Looking  on  the  internet,  images  are  oftenassociated  with  the  text,  so  classification  problems  with  thesetwo  modalities  are  very  common.  In  this  paper,  we  examinemultimodal  classification  using  textual  information  and  visualrepresentations  of  the  same  concept.  We  investigate  two  mainbasic methods to perform multimodal fusion and adapt them withstacking techniques to better handle this type of problem. Here,we use UPMC Food-101, which is a difficult and noisy multimodaldataset that well represents this category of multimodal problems.Our   results   show   that   the   proposed   early   fusion   techniquecombined  with  a  stacking-based  approach  exceeds  the  state  ofthe  art  on the  dataset used.
+The  modern  digital  world  is  becoming  more  andmore  multimodal.  
+Looking  on  the  internet,  images  are  often associated  with  the  text,  so  classification  problems  with  thesetwo  modalities  are  very  common.  
+In  this  paper [1],  we  examine multimodal  classification  using  textual  information  and  visual representations  of  the  same  concept.  
+We  investigate  two  main basic methods to perform multimodal fusion and adapt them with stacking techniques to better handle this type of problem. 
+Here, we use UPMC Food-101, which is a difficult and noisy multimodal dataset that well represents this category of multimodal problems.
+Our   results   show   that   the   proposed   **early   fusion   technique combined  with  a  stacking-based  approach**  exceeds  the  state  ofthe  art  on the  dataset used.
 
 ## Usage
 Use Jupyter notebook.
+The source code can be used to replicate all the experiments contained in the paper [1].
 
 ## Dataset
 The used dataset is [UPMC Food-101](http://visiir.lip6.fr/explore) a very difficult dataset.
