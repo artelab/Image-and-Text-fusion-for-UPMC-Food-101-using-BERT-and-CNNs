@@ -6,6 +6,11 @@ Use Jupyter notebook.
 
 ## Dataset
 The used dataset is [UPMC Food-101](http://visiir.lip6.fr/explore) a very difficult dataset.
+In the following image, four images taken from the sashimi class of UPMCFood-101. 
+In (a) a real image of sashimi; 
+the image in (b) contains more dishes so it’s hard to understand if it’s sashimi;
+In the sub-figure (c) an example of the sashimi class containinga random image; 
+while in (c) we have a wrong examplecontaining the image of another class of the same dataset.
 
 ![dataset](imgs/food101.png)
 
