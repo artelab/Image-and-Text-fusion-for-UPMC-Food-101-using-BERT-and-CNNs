@@ -10,6 +10,12 @@ Our   results   show   that   the   proposed   **early   fusion   technique comb
 Use Jupyter notebook.
 The source code can be used to replicate all the experiments contained in the paper [1].
 
+The trained model can be downloaded:
+* [Image (InceptionV3)](https://github.com/artelab/Image-and-Text-fusion-for-UPMC-Food-101-using-BERT-and-CNNs/releases/download/1/inception_model_weights_0.72.hdf5)
+* [Text (Bert)](https://github.com/artelab/Image-and-Text-fusion-for-UPMC-Food-101-using-BERT-and-CNNs/releases/download/1/BERT_LSTM_weights_0.84.hdf5)
+* [Late fusion](https://github.com/artelab/Image-and-Text-fusion-for-UPMC-Food-101-using-BERT-and-CNNs/releases/download/1/late_fusion_weights_0.85.hdf5)
+* [Early fusion](https://github.com/artelab/Image-and-Text-fusion-for-UPMC-Food-101-using-BERT-and-CNNs/releases/download/1/early_fusion_weights_0.92.hdf5)
+
 ## Dataset
 The used dataset is [UPMC Food-101](http://visiir.lip6.fr/explore) a very difficult dataset.
 In the following image, four images taken from the sashimi class of UPMCFood-101. 
