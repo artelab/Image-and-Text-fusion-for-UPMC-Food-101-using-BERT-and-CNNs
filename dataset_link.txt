@@ -1,0 +1,3 @@
+UPMC Food101 Dataset (Images + Texts) available at link:
+https://www.kaggle.com/gianmarco96/upmcfood101
+The dataset is already split into train and test, with a ratio of 70/30. 
