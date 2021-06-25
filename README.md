@@ -16,6 +16,8 @@ The trained model can be downloaded:
 * [Late fusion](https://github.com/artelab/Image-and-Text-fusion-for-UPMC-Food-101-using-BERT-and-CNNs/releases/download/1/late_fusion_weights_0.85.hdf5)
 * [Early fusion](https://github.com/artelab/Image-and-Text-fusion-for-UPMC-Food-101-using-BERT-and-CNNs/releases/download/1/early_fusion_weights_0.92.hdf5)
 
+The pre-processed dataset can be downloaded at [this link](https://www.kaggle.com/gianmarco96/upmcfood101).
+
 ## Dataset
 The used dataset is [UPMC Food-101](http://visiir.lip6.fr/explore) a very difficult dataset.
 In the following image, four images taken from the sashimi class of UPMCFood-101. 
